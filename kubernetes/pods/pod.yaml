@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: podtest
+spec:
+  containers:
+  - image: gcr.io/google-samples/hello-app:2.0
+    name: podtest
