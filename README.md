@@ -1,2 +1,2 @@
 # templates
-Repo for tempaltes
+Repo for templates
